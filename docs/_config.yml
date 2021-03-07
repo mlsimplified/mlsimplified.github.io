@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Machine Learning. Simplified.
+email: ml1simplified@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I learned machine learning through random blog posts, pytorch discussion forums,
+  and the occasional youtube lecture. It took hundreds of hours to put the pieces together,
+  making me realize that there is no easy way to learn machine learning. Yes, there are
+  dozens of courses, but they're not meant for someone who just wants to learn how to code
+  the algorithms in a week. This site will teach you everything you need to know about machine
+  learning as simply and as fast as possible.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ""
+github_username:  mlsimplified
 
 # Build settings
 theme: minima
